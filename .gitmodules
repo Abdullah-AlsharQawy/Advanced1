@@ -1,0 +1,4 @@
+[submodule "MCAL"]
+	path = MCAL
+	url = https://github.com/Abdullah-AlsharQawy/MCAL.git
+	branch = master
